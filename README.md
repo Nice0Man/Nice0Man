@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nice0Man
 - 👀 I’m interested in Computer science
-- 🌱 I’m currently studying in MEPhI universyti in Moscow
+- 🌱 I’m currently studying in MEPhI university in Moscow
 - 🌱 I’m currently learning "C" and "Python" 
 - 📫 How to reach me on Telegram? >> https://t.me/nice_man_mephi
 
